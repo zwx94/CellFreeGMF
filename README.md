@@ -15,5 +15,5 @@ python setup.py build
 python setup.py install
 
 ## Citation
-Wenxiang Zhang, et al. "Integrative Biomarker Discovery and Cell-of-Origin Tracing from Cell-Free Transcriptomes via Graph Matrix Factorization with Comparative Single-Cell Landscape Modeling in Health and Disease." Submitted.
+Wenxiang Zhang, et al. "From Cell-Free Transcriptomes to Single-Cell Landscapes: Biomarker Discovery and Originating Cell Alteration Analysis via Graph Matrix Factorization." Submitted.
 
